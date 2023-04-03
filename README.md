@@ -1,2 +1,2 @@
-# cedar-internals-dist
-InternalsView distribution
+# cedar-monitoring-dist
+Monitoring distribution
